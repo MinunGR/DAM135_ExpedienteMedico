@@ -3,5 +3,18 @@
     <style name="Base.Theme.DAM135_ExpedienteMedico" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your dark theme here. -->
         <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+        <item name="colorPrimary">@color/color_celeste_claro</item>
+        <item name="colorPrimaryVariant">@color/color_azul_grisaceo</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+
+        <item name="colorSecondary">@color/color_rosado</item>
+        <item name="colorSecondaryVariant">@color/color_lila</item>
+        <item name="colorOnSecondary">#FFFFFF</item>
+
+        <item name="android:colorBackground">#121212</item>
+        <item name="colorOnBackground">#FFFFFF</item>
+
+        <item name="android:statusBarColor" >?attr/colorPrimaryVariant</item>
+        <item name="android:navigationBarColor" >?attr/colorPrimary</item>
     </style>
 </resources>
