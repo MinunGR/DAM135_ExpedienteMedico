@@ -1,4 +1,4 @@
-package com.dam.expedientemedico.home.ui.home;
+package com.dam.expedientemedico.ui.home;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;
@@ -10,7 +10,7 @@ import androidx.annotation.NonNull;
 import androidx.fragment.app.Fragment;
 import androidx.lifecycle.ViewModelProvider;
 
-import com.dam.expedientemedico.home.databinding.FragmentHomeBinding;
+import com.dam.expedientemedico.databinding.FragmentHomeBinding;
 
 public class HomeFragment extends Fragment {
 

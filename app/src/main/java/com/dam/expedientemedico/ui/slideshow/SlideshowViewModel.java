@@ -1,4 +1,4 @@
-package com.dam.expedientemedico.home.ui.slideshow;
+package com.dam.expedientemedico.ui.slideshow;
 
 import androidx.lifecycle.LiveData;
 import androidx.lifecycle.MutableLiveData;

@@ -1,4 +1,4 @@
-package com.dam.expedientemedico.home.ui.gallery;
+package com.dam.expedientemedico.ui.gallery;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;
@@ -10,7 +10,7 @@ import androidx.annotation.NonNull;
 import androidx.fragment.app.Fragment;
 import androidx.lifecycle.ViewModelProvider;
 
-import com.dam.expedientemedico.home.databinding.FragmentGalleryBinding;
+import com.dam.expedientemedico.databinding.FragmentGalleryBinding;
 
 public class GalleryFragment extends Fragment {
 

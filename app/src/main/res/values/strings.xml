@@ -67,5 +67,7 @@
     <string name="registro_eliminado">Registro eliminado.</string>
     <string name="error_guardar">Error al guardar los datos.</string>
     <string name="confirmar_eliminacion">¿Desea eliminar este registro?</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 
 </resources>
